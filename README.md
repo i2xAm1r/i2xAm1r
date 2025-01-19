@@ -1,4 +1,4 @@
-<mark><h1>I created this account just for the site because my main github account was bugged. ![Main Github Account]([https://github.com/2xAm1r](https://github.com/2xAm1r))
+<mark><h1>I created this account just for the site because my main github account was bugged. ![Main Github Account]([https://github.com/2xAm1r]
 
 # 💫 About Me:
 ✌️ Hi, I'm Amir Barghi<br>👾 An IoT & Network Security from Iran<br>💻 Im currently learning Electornic & C & Python<br>🍃 I am trying to contribute to a better life with my own projects.<br>📧 How to reach me awmircode@gmail.com
