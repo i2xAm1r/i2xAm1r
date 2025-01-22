@@ -17,6 +17,3 @@
 <div align="center">
     <h2>Thanks for visiting <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h2>
 </div>
-
-
-https://sub.spotifyxgirl.shop/fyKm15Wax30S7To9zUE503kYUgHk/a92eb25a-ffb4-4d06-8f1c-be0ee9348585/#Zahra-tabatabie
