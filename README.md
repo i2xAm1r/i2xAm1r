@@ -9,11 +9,51 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Y7Sa44dYEx) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bftus) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/2xAm1r) 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)<br>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wfsqclhdntwo2r3vsdies4uxya&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
----
+### Languages and Tools:
+
+[![Python][python-shield]][python-url]
+[![Bash][bash-shield]][bash-url]
+[![Kali Linux][kali-linux-shield]][kali-linux-url]
+[![Metasploit][metasploit-shield]][metasploit-url]
+[![C][c-shield]][c-url]
+[![HTML5][html5-shield]][html5-url]
+[![JavaScript][javascript-shield]][javascript-url]
+[![CSS3][css3-shield]][css3-url]
+[![Wireshark][wireshark-shield]][wireshark-url]
+[![Nmap][nmap-shield]][nmap-url]
+[![PowerShell][powershell-shield]][powershell-url]
+[![Batch][batch-shield]][batch-url]
+
+<!-- Shields Links -->
+[python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[python-url]: https://python.org
+[bash-shield]: https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white
+[bash-url]: https://www.gnu.org/software/bash/
+[kali-linux-shield]: https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white
+[kali-linux-url]: https://www.kali.org/
+[metasploit-shield]: https://img.shields.io/badge/Metasploit-FF1111?style=for-the-badge&logo=metasploit&logoColor=white
+[metasploit-url]: https://www.metasploit.com/
+[c-shield]: https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white
+[c-url]: https://en.wikipedia.org/wiki/C_(programming_language)
+[html5-shield]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[html5-url]: https://html.spec.whatwg.org/
+[javascript-shield]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[javascript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[css3-shield]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[css3-url]: https://www.w3.org/Style/CSS/Overview.en.html
+[wireshark-shield]: https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white
+[wireshark-url]: https://www.wireshark.org/
+[nmap-shield]: https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white
+[nmap-url]: https://nmap.org/
+[powershell-shield]: https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white
+[powershell-url]: https://docs.microsoft.com/en-us/powershell/
+[batch-shield]: https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows&logoColor=white
+[batch-url]: https://en.wikipedia.org/wiki/Batch_file
 [![](https://visitcount.itsvg.in/api?id=2xAm1r&icon=0&color=12)](https://visitcount.itsvg.in)
+### ⚙️Projects
+
+- **Iranslot:** [Iranslot-App](https://github.com/i2xAm1r/Iranslot-App)
+- **Netwizard:** [Netwizard](https://github.com/i2xAm1r/Netwizard)
 <div align="center">
-    <h2>Thanks for visiting <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h2>
+  <img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
 </div>
