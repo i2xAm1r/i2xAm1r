@@ -57,7 +57,3 @@
 <div align="center">
   <img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
 </div>
-
-
-
-https://sub.spotifyxgirl.shop/fyKm15Wax30S7To9zUE503kYUgHk/2f86155e-af09-4d21-bf90-045839c57489/#sinzar
