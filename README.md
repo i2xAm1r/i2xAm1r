@@ -54,7 +54,7 @@
 
 - **Iranslot:** [Iranslot-App](https://github.com/i2xAm1r/Iranslot-App)
 - **Netwizard:** [Netwizard](https://github.com/i2xAm1r/Netwizard)
-- - **Pyscho Net:** [Pyscho Net](https://github.com/i2xAm1r/Pyscho)
+- **Pyscho Net:** [Pyscho Net](https://github.com/i2xAm1r/Pyscho)
 <div align="center">
   <img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
 </div>
